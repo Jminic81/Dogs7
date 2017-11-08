@@ -30,7 +30,7 @@ A count of blank fields is summarized in the Jupyter notebook.  The actual 2016 
 The flaws described above were deemed insignificant for this exercise and were not treated.
 
 As of November 2016, the American Kennel Club (AKC) recognizes 202 different breeds of dogs; however, the data set shows 344 unique
-breeds.  That is because there are many listings for "mixed", for "designer" dogs like Labradoodles (cross between Labrador Retriever 
+breeds.  That is because there are many listings for "mixed" (re: figure below), for "designer" dogs like Labradoodles (cross between Labrador Retriever 
 and Poodle = temperment of Lab but don't shed), and some for breeds that are not recognized by the AKC.  Additionally, there 
 appears to be a lack of standard nomenclature.  For example, some abbreviations resulted in duplicates, and "puppy" and "tag" appear 
 but only twice in the 2016 dataset.  
