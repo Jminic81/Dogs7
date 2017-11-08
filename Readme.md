@@ -35,6 +35,8 @@ and Poodle = temperment of Lab but don't shed), and some for breeds that are not
 appears to be a lack of standard nomenclature.  For example, some abbreviations resulted in duplicates, and "puppy" and "tag" appear 
 but only twice in the 2016 dataset.  
 
+![alt text](https://github.com/Jminic81/Dogs7/blob/master/dogbar.png)
+
 Frequency for Color and DogName were measured but as expected, color was predominantly black, brown, white or mixes thereof, and DogName was varied and in many cases amusing. 
 
 160 different zip codes in Pennsylvania are represented.  This is a fraction of the total 2,174 zip codes in PA for 67 counties.  Re:  below - looking at the top zip codes by count, all of the locations are within a 15 mile radius of Pittsburgh.  It is conceivable that there are about 30,000 dogs just in the greater Pittsburgh area as there are millions of licenced dogs in the state of Pennsylvania.
