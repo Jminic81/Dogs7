@@ -36,6 +36,7 @@ appears to be a lack of standard nomenclature.  For example, some abbreviations 
 but only twice in the 2016 dataset.  
 
 Figure 1:  Breed Count
+
 ![alt text](https://github.com/Jminic81/Dogs7/blob/master/dogbar.png)
 
 Frequency for Color and DogName were measured but as expected, color was predominantly black, brown, white or mixes thereof, and DogName was varied and in many cases amusing. 
