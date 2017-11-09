@@ -39,6 +39,8 @@ Figure 1:  Breed Counts, 2007-2016
 
 ![alt text](https://github.com/Jminic81/Dogs7/blob/master/dogbar.png)
 
+Trending for the top five most popular breeds is shown in Figure 2.
+
 Figure 2:  Top Five Breeds, Counts vs. Year
 
 ![alt text](https://github.com/Jminic81/Dogs7/blob/master/dogline.png)
