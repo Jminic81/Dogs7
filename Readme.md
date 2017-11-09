@@ -35,9 +35,13 @@ and Poodle = temperment of Lab but don't shed), and some for breeds that are not
 appears to be a lack of standard nomenclature.  For example, some abbreviations resulted in duplicates, and "puppy" and "tag" appear 
 but only twice in the 2016 dataset.  
 
-                      Figure 1:  Breed Count
+Figure 1:  Breed Count
 
 ![alt text](https://github.com/Jminic81/Dogs7/blob/master/dogbar.png)
+
+Figure 2:  Top Five Breeds, Count vs. Year
+
+![alt text](https://github.com/Jminic81/Dogs7/blob/master/dogline.png)
 
 Frequency for Color and DogName were measured but as expected, color was predominantly black, brown, white or mixes thereof, and DogName was varied and in many cases amusing. 
 
